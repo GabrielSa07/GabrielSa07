@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gabriel Sá 
 
-- 🌱 Atualmente estudando tecnologias para front-end
-- 🔭 Tecnologias em processo de desenvolvimento: HTML, CSS, JavaScript, Git e Github
+- 🔭 ..
 
 <div align="center">
   <a href="https://github.com/GabrielSa07">
