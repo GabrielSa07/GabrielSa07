@@ -29,4 +29,4 @@
   <a href = "mailto:gabrielbentodesa@gmail.com?subject=Vim%20pelo%20Github!&body=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20saber..."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href = "https://github.com/GabrielSa07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   <a href = "https://www.instagram.com/bento_saa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  a
+  
