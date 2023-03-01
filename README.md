@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel  
+### Olá! Eu sou o Gabriel! 
 
 - 🔭 Estudante de FullStack JavaScript
 
