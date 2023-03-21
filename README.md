@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel! 
 
-- 🔭 Estudante de FullStack JavaScript
+- 🔭 Desenvolvedor Junior JavaScript 
 
 <div align="center">
   <a href="https://github.com/GabrielSa07">
