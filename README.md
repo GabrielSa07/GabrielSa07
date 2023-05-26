@@ -3,7 +3,13 @@
 - 🔭 Desenvolvedor Junior JavaScript 
 
 <!-- profile monitor -->
-(https://github-readme-stats.vercel.app/api?username=GabrielSa07)](https://github.com/GabrielSa07/github-readme-stats)
+<p align="center">
+  <div align="center">
+   <a href="https://github.com/PabloLSa">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloLSa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" / >
+   <img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloLSa&layout=compact&langs_count=7&theme=dracula"/>
+   <div>
+<p>
 
 <!-- tech icons -->
 <div style="display: inline_block"><br>
