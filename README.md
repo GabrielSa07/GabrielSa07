@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel! 
 
-- 🔭 Desenvolvedor Junior JavaScript 
+- 🔭 Desenvolvedor Junior  
 
 <!-- profile monitor (finish...)-->
 <p align="center">
