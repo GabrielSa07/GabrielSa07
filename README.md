@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Gabriel! 
 
-- 🔭 Desenvolvedor Junior  
-
 <!-- profile monitor (finish...)-->
 <p align="center">
  <div align="center">
